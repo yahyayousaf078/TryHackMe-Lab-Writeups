@@ -38,7 +38,7 @@
 
  ---
 
-##🎯 Learning Outcomes
+## 🎯 Learning Outcomes
 
 - Understood how to use Nmap for comprehensive scanning.
 
